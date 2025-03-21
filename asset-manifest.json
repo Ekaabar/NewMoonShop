@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/NewMoonShop/static/css/main.1c736f0f.css",
+    "main.js": "/NewMoonShop/static/js/main.a35d45ed.js",
+    "static/media/logo.png": "/NewMoonShop/static/media/logo.08610d845bf44fd7bc8e.png",
+    "static/media/cooking_2.jpg": "/NewMoonShop/static/media/cooking_2.c8415eb89952987c32b6.jpg",
+    "static/media/religion_2.jpg": "/NewMoonShop/static/media/religion_2.deee82fbba25d3902435.jpg",
+    "static/media/religion_5.jpg": "/NewMoonShop/static/media/religion_5.41d6b93ec2dd44c3f493.jpg",
+    "static/media/cooking_1.jpg": "/NewMoonShop/static/media/cooking_1.a1b9c677feca82b22f05.jpg",
+    "static/media/software_1.jpg": "/NewMoonShop/static/media/software_1.3b1c00fe3afab33ee3de.jpg",
+    "static/media/business_1.jpg": "/NewMoonShop/static/media/business_1.578dc62978ef0306844d.jpg",
+    "static/media/religion_3.jpg": "/NewMoonShop/static/media/religion_3.222f0870fd89878b54a9.jpg",
+    "static/media/religion_4.jpg": "/NewMoonShop/static/media/religion_4.d14677399482d2e94ecd.jpg",
+    "static/media/software_2.jpg": "/NewMoonShop/static/media/software_2.c68c8553492dc871dae3.jpg",
+    "static/media/software_5.jpg": "/NewMoonShop/static/media/software_5.9ea6b5a7447174157fb2.jpg",
+    "static/media/software_4.jpg": "/NewMoonShop/static/media/software_4.118c91f7f579f1fffeac.jpg",
+    "static/media/business_2.jpg": "/NewMoonShop/static/media/business_2.758a136fa9279b623ded.jpg",
+    "static/media/software_3.jpg": "/NewMoonShop/static/media/software_3.f990da340b13d072f18b.jpg",
+    "static/media/religion_1.jpg": "/NewMoonShop/static/media/religion_1.b3ef739ffa654542d193.jpg",
+    "static/media/business_3.jpg": "/NewMoonShop/static/media/business_3.e22cc886cdc3a03fa926.jpg",
+    "index.html": "/NewMoonShop/index.html",
+    "main.1c736f0f.css.map": "/NewMoonShop/static/css/main.1c736f0f.css.map",
+    "main.a35d45ed.js.map": "/NewMoonShop/static/js/main.a35d45ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c736f0f.css",
+    "static/js/main.a35d45ed.js"
+  ]
+}
