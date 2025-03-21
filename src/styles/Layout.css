@@ -1,0 +1,9 @@
+.nms-layout-inner {
+	display: flex;
+	flex-direction: row;
+}
+
+
+html {
+	font-size: 18px;
+  }

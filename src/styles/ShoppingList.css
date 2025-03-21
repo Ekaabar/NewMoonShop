@@ -1,0 +1,33 @@
+.nms-shopping-list {
+	width: 100%;
+}
+
+.nms-book-list {
+	list-style-type: none;
+	padding: 32px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.nms-book-button{
+	position: relative;
+	border-radius:5px ;
+	Border-width: 0;
+	background-color: #529674;
+	color: white;
+	padding: 10px 20px;
+	left: 15px;
+	font-weight: 600;
+
+}
+
+.nms-cart-rest-button{
+	border-radius:5px ;
+	Border-width: 0;
+	background-color: white;
+	color: #529674;
+	padding: 10px 20px;
+	left: 15px;
+	font-weight: 600;
+}

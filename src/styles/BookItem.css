@@ -1,0 +1,28 @@
+.nms-book-item-cover {
+	height: 300px;
+	width: 200px;
+	border-radius: 10px;
+	object-fit: cover;
+}
+
+.nms-book-item {
+	margin: 20px;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	flex-direction: column;
+	 text-transform: capitalize; 
+	position: relative;
+	font-size: 0.7em;
+}
+
+.nms-book-item-price {
+	position: absolute;
+	border-radius: 15px 15px 15px 0;
+	background-color: #529674;
+	color: white;
+	padding: 15px;
+	right: 0;
+	top: 0;
+	font-weight: 500;
+}

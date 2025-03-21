@@ -1,0 +1,22 @@
+.nms-categories {
+	text-align: center;
+	padding-top: 30px;
+}
+
+.nms-categories-select {
+	margin-right: 15px;
+	width: 300px;
+	padding: 10px 0;
+    font-size: 1rem;
+    font-weight: 500;
+
+	}
+
+.nms-categories-reset{
+	border-radius:5px ;
+	Border-width: 0;
+	background-color: #529674;
+	color: white;
+	padding: 10px 20px;
+	font-weight: 600;
+	}

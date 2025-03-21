@@ -1,0 +1,16 @@
+.nms-banner {
+	color: black;
+	text-align: right;
+	padding: 10px 20px 5px 0px;
+	border-bottom: solid 3px black;
+	display: flex;
+	justify-content: flex-end;
+	flex-direction: row;
+	align-items: center;
+}
+
+
+.nms-logo {
+	height: 100px;
+	width: 100px;
+}
